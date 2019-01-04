@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/timhodges/Google Drive/ArduinoProjectCode/HC-SR04rangerwith_interrupts-2/build/sketch/HC-SR04rangerwith_interrupts-2.ino.cpp",
+    "Include": "TimerOne.h",
+    "Includepath": "/Users/timhodges/Documents/Arduino/libraries/TimerOne"
+  },
+  {
+    "Sourcefile": "/Users/timhodges/Google Drive/ArduinoProjectCode/HC-SR04rangerwith_interrupts-2/build/sketch/HC-SR04rangerwith_interrupts-2.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/timhodges/Documents/Arduino/libraries/TimerOne/TimerOne.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

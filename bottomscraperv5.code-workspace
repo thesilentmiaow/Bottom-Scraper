@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__split_buffer": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"queue": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"vector": "cpp",
+			"rope": "cpp",
+			"slist": "cpp",
+			"array": "cpp",
+			"map": "cpp"
+		}
+	}
+}

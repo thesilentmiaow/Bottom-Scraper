@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "sketch": "bottomscraperv5.ino",
+    "port": "/dev/cu.wchusbserial1420",
+    "configuration": "cpu=atmega328"
+}
